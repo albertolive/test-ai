@@ -1,0 +1,11 @@
+{
+  "pageTitle": "Contacto",
+  "header": "Póngase en contacto con nosotros",
+  "description": "Si tiene alguna pregunta sobre la longevidad, no dude en enviarnos un mensaje.",
+  "nameField": "Nombre",
+  "emailField": "Correo electrónico",
+  "messageField": "Mensaje",
+  "submitButton": "Enviar",
+  "successMessage": "Gracias por su mensaje. Nos pondremos en contacto con usted pronto.",
+  "errorMessage": "Hubo un error al enviar su mensaje. Por favor, inténtelo de nuevo."
+}

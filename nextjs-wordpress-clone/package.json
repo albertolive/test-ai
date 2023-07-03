@@ -1,0 +1,21 @@
+{
+  "name": "nextjs-wordpress-clone",
+  "version": "1.0.0",
+  "description": "A Next.js website about longevity, similar to WordPress but using Next.js. The website is in Spanish language.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": ["nextjs", "wordpress", "clone", "longevity", "spanish"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "i18next": "^19.8.4",
+    "next-i18next": "^8.1.2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "header": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "copyright": "Derechos de autor © 2022, Longevidad"
+  },
+  "postCard": {
+    "readMore": "Leer más"
+  },
+  "contact": {
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "submit": "Enviar"
+  }
+}

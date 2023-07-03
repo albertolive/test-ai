@@ -1,0 +1,30 @@
+.postCard {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+.postCardTitle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.postCardContent {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.postCardLink {
+    margin-top: 10px;
+    color: #0070f3;
+    text-decoration: none;
+}
+
+.postCardLink:hover {
+    text-decoration: underline;
+}
